@@ -58,6 +58,6 @@ You will program a trivia quiz app. If you have another field of expertise such 
 ```        
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.com](https://www.appbrewery.com/)
 
 ![End Banner](Documentation/readme-end-banner.png)
